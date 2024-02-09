@@ -1,4 +1,4 @@
-module github.com/samluiz/blog
+module github.com/youruser/yourrepo
 
 go 1.22.0
 
